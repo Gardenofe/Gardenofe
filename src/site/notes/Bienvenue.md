@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenue/","tags":["dg-publish","dg-home","gardenEntry"],"dg-note-properties":{"tags":["dg-publish","dg-home","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/bienvenue/","tags":["gardenEntry"],"dg-note-properties":{"tags":null}}
 ---
-
-
-dg-home: true
-dg-publish: true
-
 
 Voici votre nouveau *coffre*.
 
