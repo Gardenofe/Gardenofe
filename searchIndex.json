@@ -1,9 +1,17 @@
 [
 {
 		"title": "Bienvenue",
-		"date":"Tue Sep 15 2026 12:29:05 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Sep 15 2026 12:31:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Voici votre nouveau coffre.\nNotez quelque chose, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">créez un lien</a>, ou essayez l'importateur!\nLorsque vous serez prêt, supprimez cette note et faites ce coffre vôtre.",
 		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "A bunch of patchwork",
+		"date":"Tue Sep 15 2026 12:31:24 GMT+0000 (Coordinated Universal Time)",
+		"url":"/garden-and-its-form/a-bunch-of-patchwork/",
+		"content": "Here we go a test for a note #dg-publish",
+		"tags": [ "note"]
 }
 ]
