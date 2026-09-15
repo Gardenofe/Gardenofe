@@ -26,6 +26,20 @@
         "src/plugins/rounded-images/screenshot.png",
         "src/plugins/rounded-images/templates/style.njk"
       ]
+    },
+    "breadcrumbs": {
+      "repo": "oleeskild/garden-plugin-breadcrumbs",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-15T09:24:31.581Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/breadcrumbs/README.md",
+        "src/plugins/breadcrumbs/garden-plugin.json",
+        "src/plugins/breadcrumbs/index.js",
+        "src/plugins/breadcrumbs/styles/trail.scss",
+        "src/plugins/breadcrumbs/templates/trail.njk"
+      ]
     }
   }
 }
